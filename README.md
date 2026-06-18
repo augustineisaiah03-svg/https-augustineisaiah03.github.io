@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Augustine Isaiah | Product Manager | QA Tester</title>
+<title>Augustine Isaiah | Product Manager | QA Tester | Customer Service Support</title>
 
 <style>
 *{
@@ -105,7 +105,7 @@ background:#020617;
 <h1>Augustine Isaiah</h1>
 
 <h2>
-Product Manager • Quality Assurance Tester • Customer Service Professional
+Product Manager • Quality Assurance Tester • Customer Service Support 
 </h2>
 
 <a href="mailto:Augustineisaiah03@gmail.com" class="btn">
@@ -131,11 +131,14 @@ LinkedIn
 <div class="card">
 <p>
 Detail-oriented Product Manager, Quality Assurance Tester,
-and Customer Service Professional with experience in product
+and Customer Service with experience in product
 development, requirements gathering, manual testing,
 defect tracking, customer support, and quality assurance.
 Skilled in Agile methodologies, SDLC processes, and
 cross-functional collaboration.
+I am seeking an entry-level position where I can apply my skills in enhancing customer satisfaction, test
+case design, defect tracking, mannual and expand into automation testing, and support the delivery of
+high-performing digital solutions.
 </p>
 </div>
 
@@ -194,7 +197,7 @@ cross-functional collaboration.
 
 <div class="card">
 <h3>AFTECH Innovations Technologies</h3>
-<h4>Product Manager | Quality Assurance Engineer</h4>
+<h4>Product Manager | Quality Assurance Tester</h4>
 
 <ul>
 <li>Conducted manual testing and defect tracking.</li>
@@ -216,6 +219,19 @@ cross-functional collaboration.
 </ul>
 
 </div>
+<div class="card">
+<h3>KAFTAN TELEVISION</h3>
+<h4>Camera Operator</h4>
+
+<ul>
+<li>Offer advice on how best to shoot a scene and explain the visual impact created by particular
+shots.</li>
+<li>Demonstrate a good awareness of health and safety issues.</li>
+<li>Maintain and cross-functional collaboration with the crew and cast, including the director, producer, actors, interviewees, presenters, lighting technicians and sound recordists.</li>
+<li>Work quickly, especially as timing is such an important factor.</li>
+</ul>
+
+</div>
 
 </div>
 </section>
@@ -225,32 +241,290 @@ cross-functional collaboration.
 
 <h2 class="section-title">QA Testing Portfolio</h2>
 
-<div class="card">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sample Test Cases - Yachtcrew Center</title>
 
-<h3>YachtCrew Center Testing Project</h3>
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family: Arial, sans-serif;
+    }
 
-<h4>Bug #1 – Privacy Policy Page</h4>
-<p>
-Identified performance issues causing slow page loading
-on desktop and poor readability on mobile devices.
-</p>
+    body{
+      background:#f4f7fb;
+      padding:40px;
+      color:#333;
+    }
 
-<h4>Bug #2 – Terms & Conditions Page</h4>
-<p>
-Documented responsiveness and loading issues affecting
-mobile users.
-</p>
+    .container{
+      max-width:1200px;
+      margin:auto;
+    }
 
-<h4>Bug #3 – Registration Validation</h4>
-<p>
-Discovered form validation bypass allowing users to
-continue without completing required fields.
-</p>
+    .title{
+      text-align:center;
+      margin-bottom:40px;
+    }
+
+    .title h1{
+      color:#0b5ed7;
+      font-size:40px;
+      margin-bottom:10px;
+    }
+
+    .title p{
+      color:#666;
+      font-size:18px;
+    }
+
+    .card{
+      background:#fff;
+      border-radius:15px;
+      padding:25px;
+      margin-bottom:30px;
+      box-shadow:0 5px 15px rgba(0,0,0,0.08);
+      border-left:8px solid #dc3545;
+    }
+
+    .card h2{
+      color:#dc3545;
+      margin-bottom:15px;
+      font-size:24px;
+    }
+
+    .section{
+      margin-bottom:20px;
+    }
+
+    .section h3{
+      color:#0b5ed7;
+      margin-bottom:8px;
+      font-size:18px;
+    }
+
+    .section p{
+      line-height:1.7;
+    }
+
+    ul{
+      padding-left:20px;
+      line-height:1.8;
+    }
+
+    .severity{
+      display:inline-block;
+      background:#dc3545;
+      color:#fff;
+      padding:8px 15px;
+      border-radius:30px;
+      font-weight:bold;
+      margin-top:10px;
+    }
+
+    .comment{
+      background:#f8f9fa;
+      padding:15px;
+      border-radius:10px;
+      border-left:5px solid #0b5ed7;
+      margin-top:15px;
+    }
+
+    footer{
+      text-align:center;
+      margin-top:40px;
+      color:#666;
+    }
+
+    @media(max-width:768px){
+      body{
+        padding:15px;
+      }
+
+      .title h1{
+        font-size:28px;
+      }
+
+      .card{
+        padding:20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <div class="title">
+    <h1>Sample Test Cases</h1>
+    <p>Yachtcrew Center QA Bug Report</p>
+  </div>
+
+  <!-- TEST CASE 1 -->
+  <div class="card">
+
+    <h2>1. Privacy Policy Page Loading Issue</h2>
+
+    <div class="section">
+      <h3>Description</h3>
+      <p>
+        The Privacy Policy page experiences performance issues.
+        On desktop (PC), it takes a long time to load,
+        while on mobile devices the content is not readable properly.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Steps to Reproduce</h3>
+
+      <ul>
+        <li>Open the website on a PC browser.</li>
+        <li>Click on the “Privacy Policy” link.</li>
+        <li>Observe the loading time.</li>
+        <li>Repeat the same steps on a mobile device.</li>
+        <li>Verify if the content displays correctly.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Expected Result</h3>
+
+      <p>
+        The Privacy Policy page should load quickly
+        and display properly on mobile devices.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Actual Result</h3>
+
+      <p>
+        On PC, the page takes too long to load.
+        On mobile, the content is not fully readable.
+      </p>
+    </div>
+
+    <span class="severity">Severity: High</span>
+
+    <div class="comment">
+      <strong>Comment:</strong>
+      Possible performance or responsive design issue.
+      Check server response time and mobile rendering compatibility.
+    </div>
+
+  </div>
+
+  <!-- TEST CASE 2 -->
+  <div class="card">
+
+    <h2>2. Terms & Conditions Page Loading Issue</h2>
+
+    <div class="section">
+      <h3>Description</h3>
+
+      <p>
+        The Terms and Conditions page has similar loading delays.
+        The page takes too long to load on desktop
+        and is not properly readable on mobile devices.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Steps to Reproduce</h3>
+
+      <ul>
+        <li>Open the website on a PC browser.</li>
+        <li>Click on the “Terms and Conditions” link.</li>
+        <li>Observe the loading speed.</li>
+        <li>Repeat on a mobile device.</li>
+        <li>Check readability and responsiveness.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Expected Result</h3>
+
+      <p>
+        The page should load within a few seconds
+        and display properly on all screen sizes.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Actual Result</h3>
+
+      <p>
+        The page loads slowly on both PC and mobile,
+        while the mobile layout is difficult to read.
+      </p>
+    </div>
+
+    <span class="severity">Severity: High</span>
+
+    <div class="comment">
+      <strong>Comment:</strong>
+      Likely related to rendering scripts or PDF/mobile compatibility issues.
+    </div>
+
+  </div>
+
+  <!-- TEST CASE 3 -->
+  <div class="card">
+
+    <h2>3. Registration Form Validation Missing</h2>
+
+    <div class="section">
+      <h3>Description</h3>
+
+      <p>
+        Users can proceed to the next page
+        without filling mandatory form fields.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Steps to Reproduce</h3>
+
+      <ul>
+        <li>Open the registration form.</li>
+        <li>Leave required fields empty.</li>
+        <li>Click the “Next” or “Continue” button.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Expected Result</h3>
+
+      <p>
+        Users should not proceed until all required fields are completed.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Actual Result</h3>
+
+      <p>
+        The form allows users to continue even when mandatory fields are empty.
+      </p>
+    </div>
+
+    <span class="severity">Severity: High</span>
+
+    <div class="comment">
+      <strong>Comment:</strong>
+      Frontend validation is missing or not enforced properly.
+      Validation rules should block incomplete submissions.
+    </div>
+
+  </div>
+
+  <footer>
+    <p>© 2025 Yachtcrew Center - QA Test Case Report</p>
+  </footer>
 
 </div>
-
-</div>
-</section>
 
 <section>
 <div class="container">
@@ -292,7 +566,7 @@ Location: Lekki, Lagos, Nigeria
 </section>
 
 <footer>
-© 2025 Augustine Isaiah | Product Manager | QA Tester
+© 2025 Augustine Isaiah | Product Manager | QA Tester | Customer Service Support 
 </footer>
 
 </body>
