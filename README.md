@@ -135,7 +135,9 @@ and Customer Service with experience in product
 development, requirements gathering, manual testing,
 defect tracking, customer support, and quality assurance.
 Skilled in Agile methodologies, SDLC processes, and
-cross-functional collaboration.
+cross-functional collaboration.</div>
+
+<div>
 I am seeking an entry-level position where I can apply my skills in enhancing customer satisfaction, test
 case design, defect tracking, mannual and expand into automation testing, and support the delivery of
 high-performing digital solutions.
@@ -537,6 +539,16 @@ Jira • Bugzilla • Trello • ClickUp • Excel • Lark
 
 </div>
 </section>
+
+<section>
+<div class="container">
+
+<h2 class="section-title">Downdloadable CV Section</h2>
+
+<a href="https://drive.google.com/file/d/1e40CqBcdrlRcIW877iBqXwUA8PNeixf0/view?usp=drivesdk">
+AugustineIsaiah03
+</a>
+</p>
 
 <section>
 <div class="container">
