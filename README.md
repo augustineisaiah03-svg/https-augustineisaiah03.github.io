@@ -205,7 +205,7 @@ high-performing digital solutions.
 <li>Conducted manual testing and defect tracking.</li>
 <li>Ensured products met quality standards.</li>
 <li>Collaborated with developers and stakeholders.</li>
-<li>Improved product usability and performance.</li>
+<li>Improved product usability and performance, by increase of 25%.</li>
 </ul>
 
 </div>
@@ -218,6 +218,7 @@ high-performing digital solutions.
 <li>Managed customer inquiries and complaints.</li>
 <li>Provided exceptional customer support.</li>
 <li>Handled cash reconciliation and reporting.</li>
+<li>Improved customer experience through effective communication.</li>
 </ul>
 
 </div>
@@ -228,7 +229,7 @@ high-performing digital solutions.
 <ul>
 <li>Offer advice on how best to shoot a scene and explain the visual impact created by particular
 shots.</li>
-<li>Demonstrate a good awareness of health and safety issues.</li>
+<li>Maintained production standards and safety compliance.</li>
 <li>Maintain and cross-functional collaboration with the crew and cast, including the director, producer, actors, interviewees, presenters, lighting technicians and sound recordists.</li>
 <li>Work quickly, especially as timing is such an important factor.</li>
 </ul>
@@ -367,7 +368,7 @@ shots.</li>
   <!-- TEST CASE 1 -->
   <div class="card">
 
-    <h2>1. Privacy Policy Page Loading Issue</h2>
+    <h2>TC-001. Privacy Policy Page Loading Issue</h2>
 
     <div class="section">
       <h3>Description</h3>
@@ -421,7 +422,7 @@ shots.</li>
   <!-- TEST CASE 2 -->
   <div class="card">
 
-    <h2>2. Terms & Conditions Page Loading Issue</h2>
+    <h2>TC-002. Terms & Conditions Page Loading Issue</h2>
 
     <div class="section">
       <h3>Description</h3>
@@ -475,7 +476,7 @@ shots.</li>
   <!-- TEST CASE 3 -->
   <div class="card">
 
-    <h2>3. Registration Form Validation Missing</h2>
+    <h2>TC-003. Registration Form Validation Missing</h2>
 
     <div class="section">
       <h3>Description</h3>
@@ -528,6 +529,48 @@ shots.</li>
 
 </div>
 
+<div class="container">
+
+<h2 class="section-title">Education</h2>
+
+<ul>
+<li>Higher National Diploma (HND)</li>
+<li>Mass Communication Moshood Abiola Polytechnic, Ogun State.</li>
+<li>Ordinary National Diploma (OND)</li>
+<li>Mass Communication Moshood Abiola Polytechnic, Ogun State.</li>
+</ul>
+
+</div>
+
+<div class="container">
+
+<h2 class="section-title">Certification</h2>
+
+<ul>
+<li>Jobberman Soft Skills Training</li>
+<li>NYSC Completion Certificate (Discharge No: 005320965)</li>
+<li>Community Development Service (EDITORIAL)</li>
+</ul>
+
+</div>
+
+<div class="container">
+
+<h2 class="section-title">Why Hire Me</h2>
+
+<ul>
+<li>Product Management Knowledge</li>
+<li>Software Quality Assurance Experience</li>
+<li>Strong Customer Service Background</li>
+<li>Defect Identification & Documentation</li>
+<li>Agile & SDLC Understanding</li>
+<li>Excellent Communication Skills</li>
+<li>Cross-functional Team Collaboration</li>
+<li>Continuous Improvement Mindset</li>
+</ul>
+
+</div>
+
 <section>
 <div class="container">
 
@@ -546,7 +589,7 @@ Jira • Bugzilla • Trello • ClickUp • Excel • Lark
 <h2 class="section-title">Downdloadable CV Section</h2>
 
 <a href="https://drive.google.com/file/d/1e40CqBcdrlRcIW877iBqXwUA8PNeixf0/view?usp=drivesdk">
-AugustineIsaiah03
+Augustine Isaiah PDF1-2
 </a>
 </p>
 
