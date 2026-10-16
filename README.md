@@ -1,54 +1,113 @@
 # Augustine Isaiah — Professional Portfolio
 
-**Product Manager · Quality Assurance Tester · Customer Service Support · Graphic Design (In View)**
+**Product Management · Quality Assurance Testing · Customer Service Support · Graphic Design (In View)**
 
-I connect product thinking, software quality, customer experience, and visual communication to help teams create useful, reliable, and user-focused digital experiences.
+I connect product thinking, software quality, customer experience and visual communication to help make digital products and services clearer, more useful and more reliable.
 
-## Explore
+## Portfolio links
 
-- **[Open my live portfolio](https://augustineisaiah03-svg.lovable.app/)** — current interactive portfolio
-- **[View the GitHub Pages portfolio](https://augustineisaiah03-svg.github.io/https-augustineisaiah03.github.io/)** — portfolio source published from this repository
-- **[Browse the source code](https://github.com/augustineisaiah03-svg/https-augustineisaiah03.github.io)**
+- **[Open the live Lovable portfolio](https://augustineisaiah03-svg.lovable.app/)**
+- **[View the GitHub Pages portfolio](https://augustineisaiah03-svg.github.io/https-augustineisaiah03.github.io/)**
+- **[Browse this repository](https://github.com/augustineisaiah03-svg/https-augustineisaiah03.github.io)**
 - **[Connect on LinkedIn](https://www.linkedin.com/in/augustineisaiah03)**
 
-## Core Areas
+## About
+
+I am a detail-oriented professional with experience across product-related work, quality assurance, customer support and media production. My Mass Communication background supports my research, storytelling, collaboration, audience awareness and communication skills.
+
+I enjoy understanding how a product or service should work, testing how it actually behaves, documenting issues clearly and helping people get the support they need. I am continuing to develop my capabilities in product management and software testing while building practical QA case studies and graphic-design projects.
+
+## Core capabilities
 
 ### Product Management
-Requirements gathering, product thinking, stakeholder communication, Agile delivery, and continuous improvement.
+- Requirements gathering and user-focused thinking
+- Stakeholder communication and cross-functional collaboration
+- Agile delivery concepts and continuous improvement
+- Workflow review and product-quality support
 
 ### Quality Assurance
-Manual, exploratory, and regression testing; test-case design; reproducible defect reports; responsive checks; and validation testing.
+- Manual and exploratory testing
+- Test scenarios and test-case design
+- Reproducible bug reports and severity assessment
+- Functional, regression and responsive checks
+- Expected-versus-actual result documentation
+- Retesting and regression-test planning
 
-### Customer Service
-Customer communication, enquiry and complaint handling, issue resolution, and customer-experience improvement.
+### Customer Service Support
+- Customer enquiries and complaint handling
+- Issue triage, escalation and follow-up
+- Transaction support, cash handling and reconciliation
+- Clear customer communication and service consistency
 
-### Graphic Design
-Branding concepts, promotional creatives, event materials, social-media graphics, and professional document layouts. Graphic design is currently **in view**, supported by practical project examples.
+### Graphic Design — In View
+Practical project examples across event communication, retail branding, social-media identity and institutional document layout.
 
-## Featured QA Examples
+## Selected QA case studies
 
-- Privacy Policy page: loading, readability, and mobile responsiveness.
-- Terms & Conditions page: loading and responsive layout.
-- Registration form: required-field validation and prevention of incomplete submissions.
+### Yachtcrew Center — Website QA Assessment
+A structured review of usability, responsive behaviour and form-validation concerns, with emphasis on reproducible steps, user impact, expected and actual behaviour, and recommended next steps.
 
-These examples demonstrate how to document reproduction steps, expected and actual results, severity, user impact, and recommended corrective action. They are portfolio case studies, not claims that the original product has been fixed.
+**TC-001 — Privacy Policy page**
+- Focus: loading behaviour, readability and mobile display.
+- Expected: the policy loads in a reasonable time and remains readable on supported screen sizes.
+- Test focus: loading, viewport responsiveness, text wrapping and readability.
 
-## Selected Design Projects
+**TC-002 — Terms & Conditions**
+- Focus: loading and responsive layout.
+- Expected: users can access and read the complete terms on desktop and mobile.
+- Test focus: navigation, loading, content visibility, scrolling and responsive behaviour.
 
-- YPSOA 26th Anniversary & Reunion
-- Honors Telecommunications & Gadgets
-- HONOR13_13 Contentverse social branding
-- Rhema College application-form design
+**TC-003 — Registration form**
+- Focus: required-field validation.
+- Expected: users cannot proceed until mandatory fields contain valid input.
+- Test focus: empty submission, field-level messages, valid data and boundary cases.
+
+> **Accuracy note:** These are portfolio examples of reported or assessed issues and recommended testing. They do not claim that the original website has been fixed or that a production retest has been completed.
+
+## Selected creative projects
+
+- **YPSOA Anniversary & Reunion** — event communication, anniversary messaging and reunion information.
+- **Honors Telecommunications & Gadgets** — business identity and customer-facing retail communication.
+- **HONOR13_13 Contentverse** — social-media identity and sticker-branding concept.
+- **Rhema College Application Form** — institutional document layout and information hierarchy.
+
+Graphic design is an area of continued development; the listed items are practical project examples.
+
+## Professional experience
+
+### AFTECH Innovations Technologies, Ltd.
+**Product Management / Quality Assurance**
+Supported product-quality activities through manual testing, defect documentation, user-focused checks and collaboration with relevant team members.
+
+### Over The Top Entertainment (Nairabet)
+**Lead Cashier | Customer Service Support**
+Supported customer-facing operations through enquiries and complaint handling, transaction support, cash reconciliation and operational records.
+
+### Kaftan Television
+**Camera Operator / Videography**
+Supported television and video production through camera operation, shot composition and coordination with production colleagues.
+
+## Education and development
+
+- **Higher National Diploma (HND), Mass Communication** — Moshood Abiola Polytechnic, Abeokuta, Ogun State.
+- **Ordinary National Diploma (OND), Mass Communication** — Moshood Abiola Polytechnic, Abeokuta, Ogun State.
+- Jobberman Soft Skills Training
+- NYSC Completion Certificate
+- Community Development Service — Editorial
+
+## Tools and methods
+
+Jira · Bugzilla · Trello · ClickUp · Microsoft Excel · Lark · Agile concepts · SDLC · Test documentation
 
 ## Contact
 
-- **Email:** [Augustineisaiah03@gmail.com](mailto:Augustineisaiah03@gmail.com)
+- **Email:** Augustineisaiah03@gmail.com
 - **Phone:** +234 811 175 3924
 - **LinkedIn:** [Augustine Isaiah](https://www.linkedin.com/in/augustineisaiah03)
 - **GitHub:** [augustineisaiah03-svg](https://github.com/augustineisaiah03-svg)
 
-I welcome relevant opportunities, professional networking, collaborations, QA assignments, product-focused roles, and creative projects.
+I welcome relevant opportunities in product management, quality assurance and customer support, as well as professional networking and creative collaborations.
 
 ---
 
-*This portfolio presents selected experience, skills, and sample work. Please contact me for further context about specific projects and responsibilities.*
+*This portfolio presents selected experience, skills and sample work. Please contact me for additional context about specific projects and responsibilities.*
