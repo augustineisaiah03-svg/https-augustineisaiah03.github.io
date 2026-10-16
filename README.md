@@ -1,44 +1,54 @@
 # Augustine Isaiah — Professional Portfolio
 
-**Product Manager · Quality Assurance Tester · Customer Service Support · Graphic Designer**
+**Product Manager · Quality Assurance Tester · Customer Service Support · Graphic Design (In View)**
 
-Welcome to my professional portfolio. I bring together product thinking, quality assurance, customer experience, and visual communication to help teams deliver clearer, more usable, and more reliable digital experiences.
+I connect product thinking, software quality, customer experience, and visual communication to help teams create useful, reliable, and user-focused digital experiences.
 
-## 🌐 View My Portfolio
+## Explore
 
-- **Live portfolio (Lovable):** https://augustineisaiah03-svg.lovable.app
-- **GitHub repository:** https://github.com/augustineisaiah03-svg/https-augustineisaiah03.github.io
-- **GitHub profile:** https://github.com/augustineisaiah03-svg
-- **LinkedIn:** https://www.linkedin.com/in/augustineisaiah03
+- **[Open my live portfolio](https://augustineisaiah03-svg.lovable.app/)** — current interactive portfolio
+- **[View the GitHub Pages portfolio](https://augustineisaiah03-svg.github.io/https-augustineisaiah03.github.io/)** — portfolio source published from this repository
+- **[Browse the source code](https://github.com/augustineisaiah03-svg/https-augustineisaiah03.github.io)**
+- **[Connect on LinkedIn](https://www.linkedin.com/in/augustineisaiah03)**
 
-## What You'll Find
+## Core Areas
 
-- **Product Management:** requirements gathering, product thinking, roadmapping, stakeholder communication, and Agile delivery.
-- **Quality Assurance:** manual, regression, and exploratory testing; test-case design; defect tracking; bug reporting; and responsive checks.
-- **Graphic Design:** brand identity concepts, promotional graphics, social-media creatives, event materials, and document layouts.
-- **Customer Service:** customer communication, issue resolution, service quality, and customer experience.
+### Product Management
+Requirements gathering, product thinking, stakeholder communication, Agile delivery, and continuous improvement.
 
-## Featured QA Case Study
+### Quality Assurance
+Manual, exploratory, and regression testing; test-case design; reproducible defect reports; responsive checks; and validation testing.
 
-My portfolio includes sample QA documentation covering:
-1. Privacy Policy page loading and mobile readability.
-2. Terms & Conditions page loading and responsive layout.
-3. Registration form validation that permits incomplete mandatory fields.
+### Customer Service
+Customer communication, enquiry and complaint handling, issue resolution, and customer-experience improvement.
 
-Each example outlines the issue, reproduction steps, expected and actual results, severity, and recommendations.
+### Graphic Design
+Branding concepts, promotional creatives, event materials, social-media graphics, and professional document layouts. Graphic design is currently **in view**, supported by practical project examples.
 
-## Connect With Me
+## Featured QA Examples
 
-I'm open to relevant opportunities, professional networking, collaborations, QA assignments, product-focused roles, and graphic-design projects.
+- Privacy Policy page: loading, readability, and mobile responsiveness.
+- Terms & Conditions page: loading and responsive layout.
+- Registration form: required-field validation and prevention of incomplete submissions.
+
+These examples demonstrate how to document reproduction steps, expected and actual results, severity, user impact, and recommended corrective action. They are portfolio case studies, not claims that the original product has been fixed.
+
+## Selected Design Projects
+
+- YPSOA 26th Anniversary & Reunion
+- Honors Telecommunications & Gadgets
+- HONOR13_13 Contentverse social branding
+- Rhema College application-form design
+
+## Contact
 
 - **Email:** [Augustineisaiah03@gmail.com](mailto:Augustineisaiah03@gmail.com)
 - **Phone:** +234 811 175 3924
 - **LinkedIn:** [Augustine Isaiah](https://www.linkedin.com/in/augustineisaiah03)
+- **GitHub:** [augustineisaiah03-svg](https://github.com/augustineisaiah03-svg)
 
-## Help This Portfolio Reach More People
-
-If you find my work useful, please **visit the live portfolio, share the link, connect with me on LinkedIn, or leave constructive feedback**. Genuine engagement and professional feedback help me improve and make my work easier for recruiters and collaborators to discover.
+I welcome relevant opportunities, professional networking, collaborations, QA assignments, product-focused roles, and creative projects.
 
 ---
 
-*Portfolio content is a showcase of skills and sample work. Please contact me for further details about specific projects and experience.*
+*This portfolio presents selected experience, skills, and sample work. Please contact me for further context about specific projects and responsibilities.*
